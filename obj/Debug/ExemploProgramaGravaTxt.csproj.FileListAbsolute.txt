@@ -1,0 +1,10 @@
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\bin\Debug\ExemploProgramaGravaTxt.exe.config
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\bin\Debug\ExemploProgramaGravaTxt.exe
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\bin\Debug\ExemploProgramaGravaTxt.pdb
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\obj\Debug\ExemploProgramaGravaTxt.csprojAssemblyReference.cache
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\obj\Debug\ExemploProgramaGravaTxt.Form1.resources
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\obj\Debug\ExemploProgramaGravaTxt.Properties.Resources.resources
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\obj\Debug\ExemploProgramaGravaTxt.csproj.GenerateResource.cache
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\obj\Debug\ExemploProgramaGravaTxt.csproj.CoreCompileInputs.cache
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\obj\Debug\ExemploProgramaGravaTxt.exe
+C:\Users\bb0h6992\source\repos\ExemploProgramaGravaTxt\obj\Debug\ExemploProgramaGravaTxt.pdb
